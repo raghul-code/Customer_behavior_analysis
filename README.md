@@ -2,9 +2,9 @@
 Data analytics project for customer behavior using Python,SQL,power BI
 
 ## 1.Used df.info() to check structure and .describe() for summary statistics. 
-'''python
+```python
 df.info()
-'''
+```
 ## 2.Created age_group column by binning customer ages. 
 '''python
 labels = ['Young Adult','Adult','Middle-aged','Senior']
